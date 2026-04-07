@@ -38,7 +38,7 @@ Práctica de selectores.
 
 **Objetivo**: Usar selector de etiquetas.
 
-Abre los archivos [ejercicio1.html](./estilos/ejercicio01/index.html) y [ejercicio1.css](./estilos/ejercicio01/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio1.html](./ejercicio01/index.html) y [ejercicio1.css](./ejercicio01/style.css) con el siguiente contenido:
 
 ```html
 <h1>Título</h1>
@@ -52,7 +52,7 @@ Abre los archivos [ejercicio1.html](./estilos/ejercicio01/index.html) y [ejercic
 
 **Objetivo**: usar clases correctamente
 
-Abre los archivos [ejercicio2.html](./estilos/ejercicio02/index.html) y [ejercicio2.css](./estilos/ejercicio02/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio2.html](./ejercicio02/index.html) y [ejercicio2.css](./ejercicio02/style.css) con el siguiente contenido:
 
 ```html
 <p class="destacado">Importante</p>
@@ -66,7 +66,7 @@ Abre los archivos [ejercicio2.html](./estilos/ejercicio02/index.html) y [ejercic
 
 **Objetivo**: diferenciar id vs clase
 
-Abre los archivos [ejercicio3.html](./estilos/ejercicio03/index.html) y [ejercicio3.css](./estilos/ejercicio03/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio3.html](./ejercicio03/index.html) y [ejercicio3.css](./ejercicio03/style.css) con el siguiente contenido:
 
 ```html
 <h1 id="titulo">Mi página</h1>
@@ -79,7 +79,7 @@ Abre los archivos [ejercicio3.html](./estilos/ejercicio03/index.html) y [ejercic
 
 **Objetivo**: Diferenciar padres de hijos
 
-Abre los archivos [ejercicio4.html](./estilos/ejercicio04/index.html) y [ejercicio4.css](./estilos/ejercicio04/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio4.html](./ejercicio04/index.html) y [ejercicio4.css](./ejercicio04/style.css) con el siguiente contenido:
 
 ```html
 <div>
@@ -94,7 +94,7 @@ Abre los archivos [ejercicio4.html](./estilos/ejercicio04/index.html) y [ejercic
 
 **Objetivo**: Probar selector de hijo directo.
 
-Abre los archivos [ejercicio5.html](./estilos/ejercicio05/index.html) y [ejercicio5.css](./estilos/ejercicio05/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio5.html](./ejercicio05/index.html) y [ejercicio5.css](./ejercicio05/style.css) con el siguiente contenido:
 
 ```html
 <div>
@@ -111,7 +111,7 @@ Abre los archivos [ejercicio5.html](./estilos/ejercicio05/index.html) y [ejercic
 
 **Objetivo**: agrupar selectores
 
-Abre los archivos [ejercicio6.html](./estilos/ejercicio06/index.html) y [ejercicio6.css](./estilos/ejercicio06/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio6.html](./ejercicio06/index.html) y [ejercicio6.css](./ejercicio06/style.css) con el siguiente contenido:
 
 ```html
 <h1>Título</h1>
@@ -125,7 +125,7 @@ Abre los archivos [ejercicio6.html](./estilos/ejercicio06/index.html) y [ejercic
 
 **Objetivo**: combinar selectores
 
-Abre los archivos [ejercicio7.html](./estilos/ejercicio07/index.html) y [ejercicio7.css](./estilos/ejercicio07/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio7.html](./ejercicio07/index.html) y [ejercicio7.css](./ejercicio07/style.css) con el siguiente contenido:
 
 ```html
 <div>
@@ -143,7 +143,7 @@ Abre los archivos [ejercicio7.html](./estilos/ejercicio07/index.html) y [ejercic
 
 **Objetivo**: introducir selectores más avanzados.
 
-Abre los archivos [ejercicio8.html](./estilos/ejercicio08/index.html) y [ejercicio8.css](./estilos/ejercicio08/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio8.html](./ejercicio08/index.html) y [ejercicio8.css](./ejercicio08/style.css) con el siguiente contenido:
 
 ```html
 <input type="text">
@@ -157,7 +157,7 @@ Abre los archivos [ejercicio8.html](./estilos/ejercicio08/index.html) y [ejercic
 
 **Objetivo**: interacción
 
-Abre los archivos [ejercicio9.html](./estilos/ejercicio09/index.html) y [ejercicio9.css](./estilos/ejercicio09/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio9.html](./ejercicio09/index.html) y [ejercicio9.css](./ejercicio09/style.css) con el siguiente contenido:
 
 ```html
 <a href="#">Link 1</a>
@@ -170,7 +170,7 @@ Abre los archivos [ejercicio9.html](./estilos/ejercicio09/index.html) y [ejercic
 
 **Objetivo**: selectores estructurales
 
-Abre los archivos [ejercicio10.html](./estilos/ejercicio10/index.html) y [ejercicio10.css](./estilos/ejercicio10/style.css) con el siguiente contenido:
+Abre los archivos [ejercicio10.html](./ejercicio10/index.html) y [ejercicio10.css](./ejercicio10/style.css) con el siguiente contenido:
 
 ```html
 <ul>
@@ -187,7 +187,7 @@ Abre los archivos [ejercicio10.html](./estilos/ejercicio10/index.html) y [ejerci
 
 **Objetivo**: colocar todos los ejercicios en una única página.
 
-Crear el directorio `./estilos/ejercicioExtra/index.html` y `./estilos/ejercicioExtra/style.css` con el siguiente contenido:
+Crear el directorio `./ejercicioExtra/index.html` y `./ejercicioExtra/style.css` con el siguiente contenido:
 
 - Por cada ejercicio (10) crear un `<section id="<ejercicio>` y colocar el contenido del `<body>` dentro.
 - Dentro de `style.css` colocar el contenido de cada css agregando antes de cada uno el id (ej: `#ejercicio1 p{}`) para que se aplique solo al section
