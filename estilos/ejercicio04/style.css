@@ -1,3 +1,4 @@
-/* 
-*  Solo el párrafo (<p>) dentro del <div> debe ser verde.
-*/
+
+div p {
+    color: green;
+}
