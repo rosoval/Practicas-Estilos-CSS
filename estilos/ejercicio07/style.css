@@ -1,3 +1,6 @@
 /* 
 * Solo el .texto dentro del <div> debe ser rojo.
 */
+div .texto {
+    color: red;
+}
