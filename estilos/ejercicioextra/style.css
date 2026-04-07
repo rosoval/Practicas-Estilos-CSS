@@ -1,0 +1,32 @@
+#ejercicio1 p{
+    color:rgb(34, 34, 143);
+}
+#ejercicio2 , .destacado {
+    background-color: yellow;
+    font-weight: bold;
+}
+#ejercicio3 , .titulo {
+    color: red;
+
+}
+#ejercicio4 ,div p  {
+    color: green;
+}
+#ejercicio5 ,div > p  {
+    color: blue; 
+}
+#ejercicio6 ,h1, h2 {
+    color: violet;
+}
+#ejercicio7 ,div .texto  {
+    color: red; 
+}
+#ejercicio8 ,input[type="password"] {
+    border: 2px solid red; 
+}
+#ejercicio9 ,a:hover  {   
+    color: red;
+}
+#ejercicio10 ,i:nth-child(even), li:first-child{
+    color: red;
+}
