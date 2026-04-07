@@ -1,3 +1,4 @@
-/* 
-* Hacer que <h1> y <h2> tengan el mismo color (por ejemplo violeta).
-*/
+
+h1, h2 {
+    color: violet;
+}
