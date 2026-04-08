@@ -4,7 +4,6 @@
 
 - [Práctica de selectores](#práctica-de-selectores)
   - [Indice](#indice)
-  - [Prerquisitos](#prerquisitos)
   - [Selectores](#selectores)
     - [Ejercicio 1 - Selector por etiquetas](#ejercicio-1---selector-por-etiquetas)
     - [Ejercicio 2 - Selector por clase](#ejercicio-2---selector-por-clase)
@@ -17,18 +16,6 @@
     - [Ejercicio 9 - Pseudoclases básicas](#ejercicio-9---pseudoclases-básicas)
     - [Ejercicio 10 - nth-child](#ejercicio-10---nth-child)
     - [Ejercicio extra](#ejercicio-extra)
-
-## Prerquisitos
-
-Crearemos un fork (copia de repositorio) que nos permiten tomar todo el contenido de un repositorio y hacerlo propio.
-
-Para crearlo simplemente seleccionamos la opción `Create a new fork` desde el repositorio.
-
-![alt text](./assets/github-fork.png)
-
-Una vez copiado el repositorio en nuestra cuenta podremos clonarlo usando el comando `git clone` o desde vsCode
-
-![alt text](./assets/vscode-clone-git.png)
 
 ## Selectores
 
@@ -146,9 +133,9 @@ Abre los archivos [ejercicio7.html](./ejercicio07/index.html) y [ejercicio7.css]
 Abre los archivos [ejercicio8.html](./ejercicio08/index.html) y [ejercicio8.css](./ejercicio08/style.css) con el siguiente contenido:
 
 ```html
-<input type="text">
-<input type="password">
-<input type="email">
+<input type="text" />
+<input type="password" />
+<input type="email" />
 ```
 
 > **Consigna**: Cambiar el borde de los inputs de tipo "password" a rojo.
@@ -160,8 +147,7 @@ Abre los archivos [ejercicio8.html](./ejercicio08/index.html) y [ejercicio8.css]
 Abre los archivos [ejercicio9.html](./ejercicio09/index.html) y [ejercicio9.css](./ejercicio09/style.css) con el siguiente contenido:
 
 ```html
-<a href="#">Link 1</a>
-<a href="#">Link 2</a>
+<a href="#">Link 1</a> <a href="#">Link 2</a>
 ```
 
 > **Consigna**: Cambiar el color de los links cuando el mouse pasa por arriba (`:hover`).
@@ -193,9 +179,7 @@ Crear el directorio `./ejercicioExtra/index.html` y `./ejercicioExtra/style.css`
 - Dentro de `style.css` colocar el contenido de cada css agregando antes de cada uno el id (ej: `#ejercicio1 p{}`) para que se aplique solo al section
 
 ```html
-<section id="ejercicio1">
-  ...
-</section>
+<section id="ejercicio1">...</section>
 ```
 
 ```css
