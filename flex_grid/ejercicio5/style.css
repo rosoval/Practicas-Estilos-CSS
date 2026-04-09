@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 15px;
+    width:100%;
+}
+div{
+  
+    height: 100px;
+   
+}
