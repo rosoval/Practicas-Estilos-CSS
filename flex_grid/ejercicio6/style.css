@@ -1,0 +1,13 @@
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    border: 1px solid black;
+}
+.galeria > div{
+    min-height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+}
