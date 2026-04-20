@@ -177,9 +177,4 @@ Por cada ejercicio crear un directorio `flex_gird/ejercicio<num>/` con su `index
 </div>
 ```
 
-> **Consigna**:
->
-> - (1) Usar **Grid** para el layout general
-> - (2) Usar **Flex** dentro del header:
->   - (2.1) Logo a la izquierda
->   - (2.2) Menú a la derecha
+
